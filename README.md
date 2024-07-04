@@ -32,6 +32,7 @@ Repository of R/Bioc/shell code of master theses and graduate final projects **_
 
 # Graduate final projects
 
+- Julia Cano. Modelització de corbes de creixement de paràmetres fisiològics en esportistes d'elit. Graduate of Mathematics, Universitat Autonoma de Barcelona (UAB). September 2024. [Script Repository](https://github.com/isglobal-brge/master_thesis/tree/master/growth_curve)
 - Goio Garcia. Segmentation of Achilles Tendon. Graduate of Mathematics, Universitat Autonoma de Barcelona (UAB). June 2023. [Script Repository](https://github.com/isglobal-brge/master_thesis/tree/master/Achilles_segmentation)
 - Claudia Serrano. Parallel implementation of singular value decomposition with application to genomic data. Graduate of Mathematics, Universitat Autonoma de Barcelona (UAB). June 2019. [Script Repository](https://github.com/isglobal-brge/master_thesis/tree/master/parallel_SVD)
 - Daniel Guinon Fort: Machine learning methods for Genome Wide Association Studies: Predicting diabetes risk from genomic data. Graduate of Statistics, Universitat Autonoma de Barcelona (UAB). September 2019. [Script Repository](https://github.com/isglobal-brge/master_thesis/tree/master/machine_learning_diabetes)
