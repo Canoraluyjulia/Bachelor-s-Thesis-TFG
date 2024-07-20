@@ -2,7 +2,7 @@
 title: '6.2 Nonlinear Mixed Models for the Variable bone mineral content(''CMO'')'
 author: 
   - name: "Júlia Cano Raluy"
-    affiliation: "Mathematics student at University of Barcelona (UAB)"
+    affiliation: "Mathematics student at Autonomous University of Barcelona (UAB)"
   - name: "Juan R González"
     affiliation: 
       - "Bioinformatics Research Group in Epidemiology (BRGE), Barcelona Institute for Global Health (ISGlobal)"
