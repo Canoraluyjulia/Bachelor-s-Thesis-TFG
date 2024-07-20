@@ -2,7 +2,7 @@
 title: '4 Descriptive and Analytical Overview of Densitometry and Echocardiography Data'
 author: 
   - name: "Júlia Cano Raluy"
-    affiliation: "Mathematics student at University of Barcelona (UAB)"
+    affiliation: "Mathematics student at Autonomous University of Barcelona (UAB)"
   - name: "Juan R González"
     affiliation: 
       - "Bioinformatics Research Group in Epidemiology (BRGE), Barcelona Institute for Global Health (ISGlobal)"
